@@ -109,7 +109,3 @@ Made with ❤️ during **Hacktopus Hackathon 2025**
 Created by \[Suvojoti Howldaer]
 📧 Email: suvo122005@gmail.com
 🔗 GitHub: [github.com/SuvoH05](https://github.com/SuvoH05)
-
-```
-
----
