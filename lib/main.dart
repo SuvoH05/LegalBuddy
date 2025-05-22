@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
       routes: {
         '/': (context) => const WelcomeScreen(),
         '/home': (context) => const HomeScreen(),
-        '/chat': (context) => const ChatScreen(), // ⬅️ Route added
+        '/chat': (context) => const ChatbotScreen(), // ⬅️ Route added
       },
     );
   }
