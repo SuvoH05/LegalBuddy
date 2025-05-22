@@ -27,5 +27,16 @@ Make sure you have the following installed:
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/LegalBuddy.git
+git clone https://github.com/SuvoH05/LegalBuddy.git
 cd LegalBuddy
+```
+## Install Dependencies
+
+```bash
+flutter pub get
+```
+
+## Run the App
+```
+flutter run
+```
