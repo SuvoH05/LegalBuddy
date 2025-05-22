@@ -1,16 +1,31 @@
-# justice_bot
+# 🧑‍⚖️ LegalBuddy
 
-A new Flutter project.
+**LegalBuddy** is a Flutter-based legal assistance app that provides users with AI-powered legal guidance, access to legal resources, document generation tools, and the ability to connect with lawyers — all in one platform.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🤖 **AI Chatbot** – Ask legal questions and get instant guidance.
+- 📚 **Legal Resources** – Browse case laws, statutes, and documents.
+- 📝 **Document Generator** – Create legal documents like rental agreements, complaints, etc.
+- 👨‍⚖️ **Connect with Lawyers** – View and chat with legal experts.
+- 💾 **Profile & Saved Data** – Access saved chats, documents, and profile info.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+### 1. Prerequisites
+
+Make sure you have the following installed:
+
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- [Dart SDK](https://dart.dev/get-dart)
+- Android Studio or VS Code (with Flutter and Dart plugins)
+
+### 2. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/LegalBuddy.git
+cd LegalBuddy
