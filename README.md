@@ -29,14 +29,103 @@ Make sure you have the following installed:
 ```bash
 git clone https://github.com/SuvoH05/LegalBuddy.git
 cd LegalBuddy
-```
-## Install Dependencies
+````
+
+### 3. Install Dependencies
 
 ```bash
 flutter pub get
 ```
 
-## Run the App
-```
+### 4. Run the App
+
+```bash
 flutter run
+```
+
+> You can use an emulator or a physical Android/iOS device.
+
+---
+
+## 🧱 Tech Stack
+
+| Layer        | Tech Used                   |
+| ------------ | --------------------------- |
+| Frontend     | Flutter (Dart)              |
+| Backend (AI) | OpenAI API (or mock data)   |
+| State Mgmt   | setState (expandable)       |
+| UI           | Material Design + Custom UI |
+| Deployment   | GitHub / Firebase / APK     |
+
+---
+
+## 📂 Folder Structure
+
+```
+lib/
+├── main.dart
+├── screens/
+│   ├── home_screen.dart
+│   ├── chat_screen.dart
+│   ├── search_screen.dart
+│   ├── document_generator.dart
+│   └── profile_screen.dart
+├── widgets/
+│   └── common_widgets.dart
+assets/
+├── images/
+├── icons/
+pubspec.yaml
+```
+
+---
+
+## 🖼️ Screenshots
+
+> (Add screenshots here if available — you can embed them like below)
+
+```
+![Chat Screen](screenshots/chat_screen.png)
+![Search Resources](screenshots/search_screen.png)
+```
+
+---
+
+## 🛠️ Upcoming Features
+
+* Lawyer Chat with Scheduling
+* Multilingual Support (Hindi, Tamil, etc.)
+* Firebase Authentication & Storage
+* Push Notifications
+
+---
+
+## 📄 License
+
+MIT License. See the `LICENSE` file for more information.
+
+---
+
+## 🙋‍♂️ Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
+
+---
+
+## 💬 Contact
+
+Made with ❤️ during **Hacktopus Hackathon 2025**
+Created by \[Your Name]
+📧 Email: [your.email@example.com](mailto:your.email@example.com)
+🔗 GitHub: [github.com/your-username](https://github.com/your-username)
+
+```
+
+---
+
+### ✅ After copying:
+- Replace `your-username`, `your.email@example.com`, and `[Your Name]`.
+- Create a `screenshots/` folder and add your images if you want previews on GitHub.
+
+Let me know if you'd like a `LICENSE` file or help with GitHub Pages or Firebase deployment.
 ```
