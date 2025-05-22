@@ -80,15 +80,6 @@ pubspec.yaml
 
 ---
 
-## 🖼️ Screenshots
-
-> (Add screenshots here if available — you can embed them like below)
-
-```
-![Chat Screen](screenshots/chat_screen.png)
-![Search Resources](screenshots/search_screen.png)
-```
-
 ---
 
 ## 🛠️ Upcoming Features
@@ -115,17 +106,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## 💬 Contact
 
 Made with ❤️ during **Hacktopus Hackathon 2025**
-Created by \[Your Name]
-📧 Email: [your.email@example.com](mailto:your.email@example.com)
-🔗 GitHub: [github.com/your-username](https://github.com/your-username)
+Created by \[Suvojoti Howldaer]
+📧 Email: suvo122005@gmail.com
+🔗 GitHub: [github.com/SuvoH05](https://github.com/SuvoH05)
 
 ```
 
 ---
-
-### ✅ After copying:
-- Replace `your-username`, `your.email@example.com`, and `[Your Name]`.
-- Create a `screenshots/` folder and add your images if you want previews on GitHub.
-
-Let me know if you'd like a `LICENSE` file or help with GitHub Pages or Firebase deployment.
-```
